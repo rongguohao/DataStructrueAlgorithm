@@ -73,7 +73,7 @@ public class SparseArray {
 			chessArr2[sparseArr[i][0]][sparseArr[i][1]] = sparseArr[i][2];
 		}
 		
-		// 输出恢复后的二维数组
+		// 输出恢复后的二维数组元素
 		System.out.println();
 		System.out.println("恢复后的二维数组");
 		
