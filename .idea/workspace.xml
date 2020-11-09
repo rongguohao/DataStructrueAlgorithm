@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:DataStructrueAlgorithm_Java" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dc47b5d-b046-4538-80b2-362f3b789874" name="Default Changelist" comment="" />
+    <list default="true" id="5dc47b5d-b046-4538-80b2-362f3b789874" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructrueAlgorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructrueAlgorithm.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j93ITGSCMMA39HxJt4As9WlxSI" />
   <component name="ProjectViewState">
@@ -14,9 +42,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -42,11 +74,25 @@
       <updated>1603202407346</updated>
       <workItem from="1603202408439" duration="105000" />
       <workItem from="1603202583499" duration="135000" />
+      <workItem from="1604920276975" duration="167000" />
+      <workItem from="1604920446740" duration="346000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="424" y="172" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603202716404">
@@ -57,9 +103,9 @@
       <screen x="0" y="23" width="1920" height="974" />
     </state>
     <state x="697" y="319" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1920.974@0.23.1920.974" timestamp="1603202703658" />
-    <state x="461" y="149" key="SettingsEditor" timestamp="1603202627580">
+    <state x="461" y="149" key="SettingsEditor" timestamp="1604920579345">
       <screen x="0" y="23" width="1920" height="974" />
     </state>
-    <state x="461" y="149" key="SettingsEditor/0.23.1920.974@0.23.1920.974" timestamp="1603202627580" />
+    <state x="461" y="149" key="SettingsEditor/0.23.1920.974@0.23.1920.974" timestamp="1604920579345" />
   </component>
 </project>
