@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dc47b5d-b046-4538-80b2-362f3b789874" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructrueAlgorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructrueAlgorithm.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +48,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,12 +73,31 @@
       <workItem from="1603202408439" duration="105000" />
       <workItem from="1603202583499" duration="135000" />
       <workItem from="1604920276975" duration="167000" />
-      <workItem from="1604920446740" duration="346000" />
+      <workItem from="1604920446740" duration="454000" />
+      <workItem from="1604921114590" duration="388000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1604920927164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604920927164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -94,6 +111,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="424" y="172" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603202716404">
       <screen x="0" y="23" width="1920" height="974" />
@@ -103,9 +124,21 @@
       <screen x="0" y="23" width="1920" height="974" />
     </state>
     <state x="697" y="319" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1920.974@0.23.1920.974" timestamp="1603202703658" />
+    <state x="110" y="123" width="1700" height="774" key="DiffContextDialog" timestamp="1604921720365">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="110" y="123" width="1700" height="774" key="DiffContextDialog/0.23.1920.974@0.23.1920.974" timestamp="1604921720365" />
+    <state x="657" y="219" key="RollbackChangesDialog" timestamp="1604921689081">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="657" y="219" key="RollbackChangesDialog/0.23.1920.974@0.23.1920.974" timestamp="1604921689081" />
     <state x="461" y="149" key="SettingsEditor" timestamp="1604920579345">
       <screen x="0" y="23" width="1920" height="974" />
     </state>
     <state x="461" y="149" key="SettingsEditor/0.23.1920.974@0.23.1920.974" timestamp="1604920579345" />
+    <state x="560" y="250" key="Vcs.Push.Dialog.v2" timestamp="1604920964515">
+      <screen x="0" y="23" width="1920" height="974" />
+    </state>
+    <state x="560" y="250" key="Vcs.Push.Dialog.v2/0.23.1920.974@0.23.1920.974" timestamp="1604920964515" />
   </component>
 </project>
